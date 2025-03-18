@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReduceLife",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"ReduceLife",
+  "parent":{
+    "name":"LifeScripts",
+    "path":"folders/Scripts/LifeScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
