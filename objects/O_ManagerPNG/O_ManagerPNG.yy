@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_Ally",
+  "%Name":"O_ManagerPNG",
   "eventList":[],
   "managed":true,
-  "name":"O_Ally",
+  "name":"O_ManagerPNG",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ennemie",
-    "path":"folders/Objects/Ennemie.yy",
+    "name":"Managers",
+    "path":"folders/Objects/Managers.yy",
   },
-  "parentObjectId":{
-    "name":"O_ManagerEnnemie",
-    "path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_Ally",
-    "path":"sprites/S_Ally/S_Ally.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

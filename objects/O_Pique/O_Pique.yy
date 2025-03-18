@@ -8,8 +8,8 @@
   "name":"O_Pique",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ennemie",
-    "path":"folders/Objects/Ennemie.yy",
+    "name":"Environnement",
+    "path":"folders/Objects/Environnement.yy",
   },
   "parentObjectId":null,
   "persistent":false,

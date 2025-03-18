@@ -1,7 +1,6 @@
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 16736F72
-/// @DnDInput : 2
 /// @DnDArgument : "x" "dirX*64"
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "dirY*64"
@@ -10,7 +9,7 @@
 /// @DnDArgument : "object" "O_Collision"
 /// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "object" "O_Collision"
-var l16736F72_0 = instance_place(x + dirX*64, y + dirY*64, [O_Collision, noone]);if (!(l16736F72_0 > 0)){	/// @DnDAction : YoYo Games.Common.If_Variable
+var l16736F72_0 = instance_place(x + dirX*64, y + dirY*64, [O_Collision]);if (!(l16736F72_0 > 0)){	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 2C78DD64
 	/// @DnDParent : 16736F72
@@ -49,11 +48,13 @@ if(isMoving == true){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDInput : 2
 	/// @DnDParent : 4287577A
 	/// @DnDArgument : "expr" "targetX/nOfFrameToChangeCase"
+	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "expr_1" "targetY/nOfFrameToChangeCase"
+	/// @DnDArgument : "expr_relative_1" "1"
 	/// @DnDArgument : "var" "x"
 	/// @DnDArgument : "var_1" "y"
-	x = targetX/nOfFrameToChangeCase;
-	y = targetY/nOfFrameToChangeCase;}
+	x += targetX/nOfFrameToChangeCase;
+	y += targetY/nOfFrameToChangeCase;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1

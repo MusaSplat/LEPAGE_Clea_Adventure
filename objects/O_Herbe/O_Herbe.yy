@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"O_Ally",
-  "eventList":[],
+  "%Name":"O_Herbe",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_Ally",
+  "name":"O_Herbe",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ennemie",
-    "path":"folders/Objects/Ennemie.yy",
+    "name":"Tiles",
+    "path":"folders/Objects/Tiles.yy",
   },
-  "parentObjectId":{
-    "name":"O_ManagerEnnemie",
-    "path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Ally",
-    "path":"sprites/S_Ally/S_Ally.yy",
+    "name":"S_Herbe",
+    "path":"sprites/S_Herbe/S_Herbe.yy",
   },
   "spriteMaskId":null,
   "visible":true,

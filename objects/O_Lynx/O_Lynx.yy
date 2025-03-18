@@ -4,12 +4,17 @@
   "eventList":[],
   "managed":true,
   "name":"O_Lynx",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_ManagerEnnemie","path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",},"propertyId":{"name":"custom_speed","path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
+  ],
   "parent":{
     "name":"Ennemie",
     "path":"folders/Objects/Ennemie.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_ManagerEnnemie",
+    "path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
