@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_Lynx",
+  "%Name":"O_Crotale",
   "eventList":[],
   "managed":true,
-  "name":"O_Lynx",
+  "name":"O_Crotale",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_ManagerEnnemie","path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",},"propertyId":{"name":"custom_speed","path":"objects/O_ManagerEnnemie/O_ManagerEnnemie.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
   ],
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Lynx",
-    "path":"sprites/S_Lynx/S_Lynx.yy",
+    "name":"S_Crotale",
+    "path":"sprites/S_Crotale/S_Crotale.yy",
   },
   "spriteMaskId":null,
   "visible":true,
