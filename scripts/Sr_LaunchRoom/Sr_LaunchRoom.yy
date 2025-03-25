@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"SR_Text",
+  "%Name":"Sr_LaunchRoom",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"SR_Text",
+  "name":"Sr_LaunchRoom",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
