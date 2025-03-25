@@ -9,7 +9,10 @@
     "name":"Bonne significationFR",
     "path":"folders/Objects/Collectible/Fruit/Bonne significationFR.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Ananas",
+    "path":"objects/O_Ananas/O_Ananas.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

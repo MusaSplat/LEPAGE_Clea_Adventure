@@ -9,7 +9,10 @@
     "name":"Mauvaise significationFL",
     "path":"folders/Objects/Collectible/Fleur/Mauvaise significationFL.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Iris",
+    "path":"objects/O_Iris/O_Iris.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
