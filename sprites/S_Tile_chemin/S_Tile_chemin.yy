@@ -19,8 +19,8 @@
   "height":192,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"1932583e-6aec-4c04-bde9-492743b0cb61","blendMode":0,"displayName":"default","isLocked":false,"name":"1932583e-6aec-4c04-bde9-492743b0cb61","opacity":43.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"c2bc5b5d-c090-4d10-b281-b7d661fdfee7","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"c2bc5b5d-c090-4d10-b281-b7d661fdfee7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"1932583e-6aec-4c04-bde9-492743b0cb61","blendMode":0,"displayName":"default","isLocked":false,"name":"1932583e-6aec-4c04-bde9-492743b0cb61","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Tile_chemin",
   "nineSlice":null,
