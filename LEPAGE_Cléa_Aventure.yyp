@@ -63,7 +63,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"LEPAGE_Cléa_Aventure",
   "resources":[
@@ -73,6 +73,7 @@
     {"id":{"name":"O_ArbreHaut","path":"objects/O_ArbreHaut/O_ArbreHaut.yy",},},
     {"id":{"name":"O_Avocat","path":"objects/O_Avocat/O_Avocat.yy",},},
     {"id":{"name":"O_Banane","path":"objects/O_Banane/O_Banane.yy",},},
+    {"id":{"name":"O_Cadre64","path":"objects/O_Cadre64/O_Cadre64.yy",},},
     {"id":{"name":"O_Capucine","path":"objects/O_Capucine/O_Capucine.yy",},},
     {"id":{"name":"O_Checkpoint","path":"objects/O_Checkpoint/O_Checkpoint.yy",},},
     {"id":{"name":"O_Chemin","path":"objects/O_Chemin/O_Chemin.yy",},},
@@ -133,6 +134,7 @@
     {"id":{"name":"S_ArbreHaut","path":"sprites/S_ArbreHaut/S_ArbreHaut.yy",},},
     {"id":{"name":"S_Avocat","path":"sprites/S_Avocat/S_Avocat.yy",},},
     {"id":{"name":"S_Banane","path":"sprites/S_Banane/S_Banane.yy",},},
+    {"id":{"name":"S_Cadre64","path":"sprites/S_Cadre64/S_Cadre64.yy",},},
     {"id":{"name":"S_Capucine","path":"sprites/S_Capucine/S_Capucine.yy",},},
     {"id":{"name":"S_Checkpoint","path":"sprites/S_Checkpoint/S_Checkpoint.yy",},},
     {"id":{"name":"S_Chemin","path":"sprites/S_Chemin/S_Chemin.yy",},},
@@ -169,6 +171,7 @@
     {"id":{"name":"S_Pomme","path":"sprites/S_Pomme/S_Pomme.yy",},},
     {"id":{"name":"S_Sanglier","path":"sprites/S_Sanglier/S_Sanglier.yy",},},
     {"id":{"name":"S_SecretDebut","path":"sprites/S_SecretDebut/S_SecretDebut.yy",},},
+    {"id":{"name":"S_Tile_chemin","path":"sprites/S_Tile_chemin/S_Tile_chemin.yy",},},
     {"id":{"name":"S_UI","path":"sprites/S_UI/S_UI.yy",},},
     {"id":{"name":"S_Ville","path":"sprites/S_Ville/S_Ville.yy",},},
     {"id":{"name":"S_VilleForet","path":"sprites/S_VilleForet/S_VilleForet.yy",},},
