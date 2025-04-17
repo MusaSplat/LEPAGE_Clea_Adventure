@@ -174,6 +174,7 @@
     {"id":{"name":"S_SecretDebut","path":"sprites/S_SecretDebut/S_SecretDebut.yy",},},
     {"id":{"name":"S_Tile_bonne_mesure_tout_1","path":"sprites/S_Tile_bonne_mesure_tout_1/S_Tile_bonne_mesure_tout_1.yy",},},
     {"id":{"name":"S_Tile_bonne_mesure_tout","path":"sprites/S_Tile_bonne_mesure_tout/S_Tile_bonne_mesure_tout.yy",},},
+    {"id":{"name":"S_Tiles_Moulin_Arbre","path":"sprites/S_Tiles_Moulin_Arbre/S_Tiles_Moulin_Arbre.yy",},},
     {"id":{"name":"S_UI","path":"sprites/S_UI/S_UI.yy",},},
     {"id":{"name":"S_Ville","path":"sprites/S_Ville/S_Ville.yy",},},
     {"id":{"name":"S_VilleForet","path":"sprites/S_VilleForet/S_VilleForet.yy",},},
