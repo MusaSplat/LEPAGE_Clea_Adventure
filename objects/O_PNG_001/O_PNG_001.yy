@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"O_PNG_001",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_PNG_001",
   "overriddenProperties":[],
@@ -9,7 +12,10 @@
     "name":"PNG",
     "path":"folders/Objects/PNG.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Interactable",
+    "path":"objects/O_Interactable/O_Interactable.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -23,7 +29,12 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"textindex","filters":[],"listItems":[],"multiselect":false,"name":"textindex","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"sprite_png","filters":[],"listItems":[],"multiselect":false,"name":"sprite_png","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"S_PNG_001","path":"sprites/S_PNG_001/S_PNG_001.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"S_PNG_001","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"texts","filters":[],"listItems":[],"multiselect":false,"name":"texts","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[\"Bonjour\"]","varType":4,},
+    {"$GMObjectProperty":"v1","%Name":"name_png","filters":[],"listItems":[],"multiselect":false,"name":"name_png","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

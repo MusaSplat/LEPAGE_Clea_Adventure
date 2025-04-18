@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sr_CallDialogue",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Sr_CallDialogue",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
