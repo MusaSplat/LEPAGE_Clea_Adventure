@@ -26,7 +26,9 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"text_content1","filters":[],"listItems":[],"multiselect":false,"name":"text_content1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris rhoncus non ex eget condimentum. Nulla non ultrices ligula. Aenean lobortis enim a euismod vestibulum. Etiam sit amet eleifend justo, eu varius nibh. Praesent rutrum magna vel tempor molestie","varType":2,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

@@ -7,7 +7,10 @@
   ],
   "managed":true,
   "name":"O_DialogueName",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_TextBox","path":"objects/O_TextBox/O_TextBox.yy",},"propertyId":{"name":"font","path":"objects/O_TextBox/O_TextBox.yy",},"resource":{"name":"NameDialogueText","path":"fonts/NameDialogueText/NameDialogueText.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"NameDialogueText",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_TextBox","path":"objects/O_TextBox/O_TextBox.yy",},"propertyId":{"name":"text_content","path":"objects/O_TextBox/O_TextBox.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"name",},
+  ],
   "parent":{
     "name":"UI",
     "path":"folders/Objects/UI.yy",
