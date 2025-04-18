@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"O_TextBox",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_TextBox",
   "overriddenProperties":[],
@@ -23,7 +26,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"text_content","filters":[],"listItems":[],"multiselect":false,"name":"text_content","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"orem ipsum dolor sit amet, consectetur adipiscing elit. Mauris rhoncus non ex eget condimentum. Nulla non ultrices ligula. Aenean lobortis enim a euismod vestibulum. Etiam sit amet eleifend justo, eu varius nibh. Praesent rutrum magna vel tempor molestie","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"show","filters":[],"listItems":[],"multiselect":false,"name":"show","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"font","filters":[],"listItems":[],"multiselect":false,"name":"font","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"MainDialogueText","path":"fonts/MainDialogueText/MainDialogueText.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"MainDialogueText","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"decalageX","filters":[],"listItems":[],"multiselect":false,"name":"decalageX","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"decalageY","filters":[],"listItems":[],"multiselect":false,"name":"decalageY","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

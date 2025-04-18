@@ -62,10 +62,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"LEPAGE_Cléa_Aventure",
   "resources":[
+    {"id":{"name":"MainDialogueText","path":"fonts/MainDialogueText/MainDialogueText.yy",},},
+    {"id":{"name":"NameDialogueText","path":"fonts/NameDialogueText/NameDialogueText.yy",},},
     {"id":{"name":"O_ActionDetection","path":"objects/O_ActionDetection/O_ActionDetection.yy",},},
     {"id":{"name":"O_Ally","path":"objects/O_Ally/O_Ally.yy",},},
     {"id":{"name":"O_Ananas","path":"objects/O_Ananas/O_Ananas.yy",},},
