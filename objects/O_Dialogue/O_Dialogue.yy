@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Dialogue",
-    "path":"sprites/S_Dialogue/S_Dialogue.yy",
+    "name":"S_ArbreBas",
+    "path":"sprites/S_ArbreBas/S_ArbreBas.yy",
   },
   "spriteMaskId":null,
   "visible":true,

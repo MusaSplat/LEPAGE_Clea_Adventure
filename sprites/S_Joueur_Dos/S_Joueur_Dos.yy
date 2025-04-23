@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Joueur",
+  "%Name":"S_Joueur_Dos",
   "bboxMode":0,
-  "bbox_bottom":47,
-  "bbox_left":16,
-  "bbox_right":49,
-  "bbox_top":15,
+  "bbox_bottom":63,
+  "bbox_left":18,
+  "bbox_right":46,
+  "bbox_top":0,
   "collisionKind":2,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"d943c2b3-5637-4635-a8ad-2f56461f75aa","blendMode":0,"displayName":"default","isLocked":false,"name":"d943c2b3-5637-4635-a8ad-2f56461f75aa","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Joueur",
+  "name":"S_Joueur_Dos",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"S_Joueur",
+    "%Name":"S_Joueur_Dos",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Joueur",
+    "name":"S_Joueur_Dos",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -68,7 +68,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f2b0f3b-fe6b-48bc-9cab-21e4b61cf6c8","path":"sprites/S_Joueur/S_Joueur.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f5a97496-d622-4b4e-b62c-fe6a82821db7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f2b0f3b-fe6b-48bc-9cab-21e4b61cf6c8","path":"sprites/S_Joueur_Dos/S_Joueur_Dos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f5a97496-d622-4b4e-b62c-fe6a82821db7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

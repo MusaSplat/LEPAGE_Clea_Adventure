@@ -44,8 +44,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Joueur",
-    "path":"sprites/S_Joueur/S_Joueur.yy",
+    "name":"S_Joueur_Face",
+    "path":"sprites/S_Joueur_Face/S_Joueur_Face.yy",
   },
   "spriteMaskId":null,
   "visible":true,

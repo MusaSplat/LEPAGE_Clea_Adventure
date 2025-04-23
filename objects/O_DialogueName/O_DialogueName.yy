@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_DialogueName",
-    "path":"sprites/S_DialogueName/S_DialogueName.yy",
+    "name":"S_ArbreHaut",
+    "path":"sprites/S_ArbreHaut/S_ArbreHaut.yy",
   },
   "spriteMaskId":null,
   "visible":true,

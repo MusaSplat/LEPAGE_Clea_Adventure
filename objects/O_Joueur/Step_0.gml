@@ -146,16 +146,7 @@ if(isMoving == true){	/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDArgument : "var" "dirX"
 /// @DnDArgument : "op" "4"
 /// @DnDArgument : "value" "1"
-if(dirX >= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
-	/// @DnDVersion : 1
-	/// @DnDHash : 28EC0173
-	/// @DnDParent : 0FADF75C
-	/// @DnDArgument : "spriteind" "S_Cadre64"
-	/// @DnDSaveInfo : "spriteind" "S_Cadre64"
-	sprite_index = S_Cadre64;
-	image_index = 0;
-
-	/// @DnDAction : YoYo Games.Common.Variable
+if(dirX >= 1){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 4CE9A59D
 	/// @DnDInput : 2
@@ -172,16 +163,7 @@ if(dirX >= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDArgument : "var" "dirX"
 /// @DnDArgument : "op" "3"
 /// @DnDArgument : "value" "1"
-if(dirX <= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
-	/// @DnDVersion : 1
-	/// @DnDHash : 72470F72
-	/// @DnDParent : 522EE88F
-	/// @DnDArgument : "spriteind" "S_Cadre64"
-	/// @DnDSaveInfo : "spriteind" "S_Cadre64"
-	sprite_index = S_Cadre64;
-	image_index = 0;
-
-	/// @DnDAction : YoYo Games.Common.Variable
+if(dirX <= 1){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 0ACE6DCA
 	/// @DnDInput : 2
@@ -198,16 +180,7 @@ if(dirX <= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDArgument : "var" "dirY"
 /// @DnDArgument : "op" "4"
 /// @DnDArgument : "value" "1"
-if(dirY >= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
-	/// @DnDVersion : 1
-	/// @DnDHash : 055EED2F
-	/// @DnDParent : 3BF51FA6
-	/// @DnDArgument : "spriteind" "S_Cadre64"
-	/// @DnDSaveInfo : "spriteind" "S_Cadre64"
-	sprite_index = S_Cadre64;
-	image_index = 0;
-
-	/// @DnDAction : YoYo Games.Common.Variable
+if(dirY >= 1){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 2C7CD296
 	/// @DnDInput : 2
@@ -224,16 +197,7 @@ if(dirY >= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDArgument : "var" "dirY"
 /// @DnDArgument : "op" "3"
 /// @DnDArgument : "value" "1"
-if(dirY <= 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
-	/// @DnDVersion : 1
-	/// @DnDHash : 4A6775A7
-	/// @DnDParent : 7EF0289E
-	/// @DnDArgument : "spriteind" "S_Cadre64"
-	/// @DnDSaveInfo : "spriteind" "S_Cadre64"
-	sprite_index = S_Cadre64;
-	image_index = 0;
-
-	/// @DnDAction : YoYo Games.Common.Variable
+if(dirY <= 1){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 1C831438
 	/// @DnDInput : 2
