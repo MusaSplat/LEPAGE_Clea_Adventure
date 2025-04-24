@@ -9,10 +9,7 @@
     "name":"Tiles",
     "path":"folders/Objects/Tiles.yy",
   },
-  "parentObjectId":{
-    "name":"O_Collision",
-    "path":"objects/O_Collision/O_Collision.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

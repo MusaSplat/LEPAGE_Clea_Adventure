@@ -11,7 +11,10 @@
     "name":"Bonne significationFL",
     "path":"folders/Objects/Collectible/Fleur/Bonne significationFL.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Manager_Collectible_Fleur_Bonne",
+    "path":"objects/O_Manager_Collectible_Fleur_Bonne/O_Manager_Collectible_Fleur_Bonne.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

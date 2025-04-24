@@ -10,8 +10,8 @@
     "path":"folders/Objects/Collectible/Fleur/Bonne significationFL.yy",
   },
   "parentObjectId":{
-    "name":"O_Iris",
-    "path":"objects/O_Iris/O_Iris.yy",
+    "name":"O_Manager_Collectible_Fleur_Bonne",
+    "path":"objects/O_Manager_Collectible_Fleur_Bonne/O_Manager_Collectible_Fleur_Bonne.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

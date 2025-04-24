@@ -10,8 +10,8 @@
     "path":"folders/Objects/Collectible/Fleur/Mauvaise significationFL.yy",
   },
   "parentObjectId":{
-    "name":"O_Iris",
-    "path":"objects/O_Iris/O_Iris.yy",
+    "name":"O_Manager_Collectible_Fleur_Mauvaise",
+    "path":"objects/O_Manager_Collectible_Fleur_Mauvaise/O_Manager_Collectible_Fleur_Mauvaise.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

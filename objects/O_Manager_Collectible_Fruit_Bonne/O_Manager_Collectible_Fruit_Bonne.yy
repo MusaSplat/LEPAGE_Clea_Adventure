@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_Hortensia",
+  "%Name":"O_Manager_Collectible_Fruit_Bonne",
   "eventList":[],
   "managed":true,
-  "name":"O_Hortensia",
+  "name":"O_Manager_Collectible_Fruit_Bonne",
   "overriddenProperties":[],
   "parent":{
-    "name":"Mauvaise significationFL",
-    "path":"folders/Objects/Collectible/Fleur/Mauvaise significationFL.yy",
+    "name":"Managers",
+    "path":"folders/Objects/Managers.yy",
   },
-  "parentObjectId":{
-    "name":"O_Manager_Collectible_Fleur_Mauvaise",
-    "path":"objects/O_Manager_Collectible_Fleur_Mauvaise/O_Manager_Collectible_Fleur_Mauvaise.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_Hortensia",
-    "path":"sprites/S_Hortensia/S_Hortensia.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
