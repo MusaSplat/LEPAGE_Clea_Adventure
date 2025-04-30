@@ -139,6 +139,7 @@
     {"id":{"name":"ReduceLife","path":"scripts/ReduceLife/ReduceLife.yy",},},
     {"id":{"name":"Sr_CallDialogue","path":"scripts/Sr_CallDialogue/Sr_CallDialogue.yy",},},
     {"id":{"name":"Sr_CloseDialogue","path":"scripts/Sr_CloseDialogue/Sr_CloseDialogue.yy",},},
+    {"id":{"name":"Sr_ExitGame","path":"scripts/Sr_ExitGame/Sr_ExitGame.yy",},},
     {"id":{"name":"Sr_LaunchRoom","path":"scripts/Sr_LaunchRoom/Sr_LaunchRoom.yy",},},
     {"id":{"name":"BackroundUi","path":"sprites/BackroundUi/BackroundUi.yy",},},
     {"id":{"name":"S_Ally","path":"sprites/S_Ally/S_Ally.yy",},},
