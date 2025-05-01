@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_VilleForet",
-    "path":"sprites/S_VilleForet/S_VilleForet.yy",
+    "name":"S_Ville_Foret",
+    "path":"sprites/S_Ville_Foret/S_Ville_Foret.yy",
   },
   "spriteMaskId":null,
   "visible":true,

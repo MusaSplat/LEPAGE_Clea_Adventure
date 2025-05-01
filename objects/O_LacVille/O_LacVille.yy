@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_LacVille",
-    "path":"sprites/S_LacVille/S_LacVille.yy",
+    "name":"S_Lac_Ville",
+    "path":"sprites/S_Lac_Ville/S_Lac_Ville.yy",
   },
   "spriteMaskId":null,
   "visible":true,

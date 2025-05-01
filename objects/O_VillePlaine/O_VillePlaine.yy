@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_VillePlaine",
-    "path":"sprites/S_VillePlaine/S_VillePlaine.yy",
+    "name":"S_Ville_Plaine",
+    "path":"sprites/S_Ville_Plaine/S_Ville_Plaine.yy",
   },
   "spriteMaskId":null,
   "visible":true,

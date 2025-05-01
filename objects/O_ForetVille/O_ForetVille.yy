@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_ForetVille",
-    "path":"sprites/S_ForetVille/S_ForetVille.yy",
+    "name":"S_Foret_Ville",
+    "path":"sprites/S_Foret_Ville/S_Foret_Ville.yy",
   },
   "spriteMaskId":null,
   "visible":true,

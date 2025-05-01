@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_ArbreBas",
-    "path":"sprites/S_ArbreBas/S_ArbreBas.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

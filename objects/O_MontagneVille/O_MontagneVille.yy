@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_MontagneVille",
-    "path":"sprites/S_MontagneVille/S_MontagneVille.yy",
+    "name":"S_Montagne_Ville",
+    "path":"sprites/S_Montagne_Ville/S_Montagne_Ville.yy",
   },
   "spriteMaskId":null,
   "visible":true,
