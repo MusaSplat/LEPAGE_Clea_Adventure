@@ -68,7 +68,6 @@
   "resources":[
     {"id":{"name":"MainDialogueText","path":"fonts/MainDialogueText/MainDialogueText.yy",},},
     {"id":{"name":"NameDialogueText","path":"fonts/NameDialogueText/NameDialogueText.yy",},},
-    {"id":{"name":"O_ActionDetection","path":"objects/O_ActionDetection/O_ActionDetection.yy",},},
     {"id":{"name":"O_Ally","path":"objects/O_Ally/O_Ally.yy",},},
     {"id":{"name":"O_Ananas","path":"objects/O_Ananas/O_Ananas.yy",},},
     {"id":{"name":"O_ArbreBas","path":"objects/O_ArbreBas/O_ArbreBas.yy",},},
@@ -80,6 +79,7 @@
     {"id":{"name":"O_Checkpoint","path":"objects/O_Checkpoint/O_Checkpoint.yy",},},
     {"id":{"name":"O_Chemin","path":"objects/O_Chemin/O_Chemin.yy",},},
     {"id":{"name":"O_Citron","path":"objects/O_Citron/O_Citron.yy",},},
+    {"id":{"name":"O_Coeur","path":"objects/O_Coeur/O_Coeur.yy",},},
     {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
     {"id":{"name":"O_Crotale","path":"objects/O_Crotale/O_Crotale.yy",},},
     {"id":{"name":"O_DebutSecret","path":"objects/O_DebutSecret/O_DebutSecret.yy",},},

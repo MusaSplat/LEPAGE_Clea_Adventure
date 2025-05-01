@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_ActionDetection",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_Coeur",
+  "eventList":[],
   "managed":true,
-  "name":"O_ActionDetection",
+  "name":"O_Coeur",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Collectible",
+    "path":"folders/Objects/Collectible.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Cadre64",
-    "path":"sprites/S_Cadre64/S_Cadre64.yy",
+    "name":"S_Coeur",
+    "path":"sprites/S_Coeur/S_Coeur.yy",
   },
   "spriteMaskId":null,
   "visible":true,
