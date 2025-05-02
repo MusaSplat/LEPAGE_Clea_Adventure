@@ -1,11 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_Coeur",
+  "%Name":"O_Canon",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Joueur","path":"objects/O_Joueur/O_Joueur.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Coeur",
+  "name":"O_Canon",
   "overriddenProperties":[],
   "parent":{
     "name":"Character",
@@ -30,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Coeur",
-    "path":"sprites/S_Coeur/S_Coeur.yy",
+    "name":"S_invisible",
+    "path":"sprites/S_invisible/S_invisible.yy",
   },
   "spriteMaskId":null,
   "visible":true,
