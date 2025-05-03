@@ -7,3 +7,5 @@ Au début le jeu devait être un jeu avec un système de quête où il fallait r
 Je n'ai pratiquement rien dans mon jeu à part des ennemis qui tue le personnage en un coup alors que cela ne devrait pas se produire. 
 
 Programation : Pas d'inventaire, pas de minimap, le jeu n'est pas jouable avec manette, pas de magasin ou de monnai d'échanges.
+
+Je m'escuse d'avance pour les fautes d'orthographes.
