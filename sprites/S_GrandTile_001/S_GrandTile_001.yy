@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Montagne_001",
+  "%Name":"S_GrandTile_001",
   "bboxMode":0,
-  "bbox_bottom":191,
-  "bbox_left":0,
-  "bbox_right":191,
+  "bbox_bottom":510,
+  "bbox_left":1,
+  "bbox_right":319,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,17 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"855b45a4-feb4-423d-b8f2-438f88da59f8","name":"855b45a4-feb4-423d-b8f2-438f88da59f8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c2840995-343e-40c4-b505-60809fbaee3f","name":"c2840995-343e-40c4-b505-60809fbaee3f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":192,
+  "height":600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"2cf8cf74-aa0d-41ca-83af-4fb3a0741594","blendMode":0,"displayName":"default","isLocked":true,"name":"2cf8cf74-aa0d-41ca-83af-4fb3a0741594","opacity":54.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"a5006e51-39df-44cd-a462-1fc766f453b3","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"a5006e51-39df-44cd-a462-1fc766f453b3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b44cbb79-9f91-43e5-b180-9188989e3a04","blendMode":0,"displayName":"Layer 1","isLocked":true,"name":"b44cbb79-9f91-43e5-b180-9188989e3a04","opacity":51.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"5f9bd944-edf0-41df-91a1-52fc3ac0d25d","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"5f9bd944-edf0-41df-91a1-52fc3ac0d25d","opacity":47.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"323fab83-4595-4dd5-8c91-4a0840d9b92e","blendMode":0,"displayName":"default","isLocked":false,"name":"323fab83-4595-4dd5-8c91-4a0840d9b92e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Montagne_001",
+  "name":"S_GrandTile_001",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"S_Montagne_001",
+    "%Name":"S_GrandTile_001",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Montagne_001",
+    "name":"S_GrandTile_001",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"855b45a4-feb4-423d-b8f2-438f88da59f8","path":"sprites/S_Montagne_001/S_Montagne_001.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6db80e94-579a-48eb-8d25-0a3240a3ffea","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c2840995-343e-40c4-b505-60809fbaee3f","path":"sprites/S_GrandTile_001/S_GrandTile_001.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"43fcd6f9-1dc0-4cee-9a87-95235edf66b2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -87,5 +88,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":192,
+  "width":600,
 }

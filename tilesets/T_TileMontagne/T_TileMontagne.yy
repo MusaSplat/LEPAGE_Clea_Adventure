@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"T_TileChemin",
+  "%Name":"T_TileMontagne",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"T_TileChemin",
+  "name":"T_TileMontagne",
   "out_columns":9,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"S_GrandTile_002",
-    "path":"sprites/S_GrandTile_002/S_GrandTile_002.yy",
+    "name":"S_GrandTile_001",
+    "path":"sprites/S_GrandTile_001/S_GrandTile_001.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
