@@ -167,6 +167,7 @@
     {"id":{"name":"S_Immortel","path":"sprites/S_Immortel/S_Immortel.yy",},},
     {"id":{"name":"S_invisible","path":"sprites/S_invisible/S_invisible.yy",},},
     {"id":{"name":"S_Iris","path":"sprites/S_Iris/S_Iris.yy",},},
+    {"id":{"name":"S_Joueur__Invicible","path":"sprites/S_Joueur__Invicible/S_Joueur__Invicible.yy",},},
     {"id":{"name":"S_Joueur_Dos","path":"sprites/S_Joueur_Dos/S_Joueur_Dos.yy",},},
     {"id":{"name":"S_Joueur_Droite","path":"sprites/S_Joueur_Droite/S_Joueur_Droite.yy",},},
     {"id":{"name":"S_Joueur_Face","path":"sprites/S_Joueur_Face/S_Joueur_Face.yy",},},
